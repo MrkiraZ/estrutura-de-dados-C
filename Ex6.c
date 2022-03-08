@@ -45,8 +45,6 @@ int main(){
 
 
 void inserir(int *v){
-    //int *v;
-    //v= (int*) malloc( memory * sizeof(int));
     int x;
     unsigned int pos;
     printf("Em qual posicao vc deseja inserir o valor?\n");
