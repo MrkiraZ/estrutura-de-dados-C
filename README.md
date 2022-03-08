@@ -1,1 +1,2 @@
-# estrutura-de-dados-C
+# Estrutura de dados C:
+- Exercicios
